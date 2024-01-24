@@ -1,5 +1,8 @@
 <div align="center">
-  <h1 align="center" style="border-bottom: none"><b>Exercise 5</b> - Movie's Recommender</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
+  <h1 align="center" style="border-bottom: none"><b>Programming Workshop in C & C++ - - Movie's Recommender</b></h1>
+
+<br>
 
   <p align="center">
     <b>Movie Recommender</b> is the 5th exercise I've solved in Huji's <b>Programming Workshop in C & C++</b> course.
